@@ -4,5 +4,9 @@
   <h1> Welcome to continuous Integration World!</h1>
   <h1> Date 15.01.2022 time 16.45 Integrated deployment using Ansible with Jenkins </h1>
  
+  <h1> Successfully done CI/CD </h1>
+
+
+
 </body>
 </html>
